@@ -67,10 +67,10 @@
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>CLOCK</string>
+          <string>nRESET</string>
         </entry>
       </elementAttributes>
-      <pos x="340" y="480"/>
+      <pos x="340" y="540"/>
     </visualElement>
     <visualElement>
       <elementName>Out</elementName>
@@ -117,10 +117,10 @@
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>nRESET</string>
+          <string>CLOCK</string>
         </entry>
       </elementAttributes>
-      <pos x="340" y="540"/>
+      <pos x="340" y="480"/>
     </visualElement>
     <visualElement>
       <elementName>RegRE</elementName>
