@@ -531,7 +531,7 @@
           <string>RESULT</string>
         </entry>
       </elementAttributes>
-      <pos x="800" y="1660"/>
+      <pos x="800" y="1800"/>
     </visualElement>
     <visualElement>
       <elementName>Const</elementName>
@@ -942,16 +942,16 @@
       <p2 x="-480" y="1520"/>
     </wire>
     <wire>
-      <p1 x="1120" y="1080"/>
-      <p2 x="1120" y="1440"/>
+      <p1 x="800" y="1700"/>
+      <p2 x="800" y="1800"/>
     </wire>
     <wire>
       <p1 x="800" y="1080"/>
       <p2 x="800" y="1180"/>
     </wire>
     <wire>
-      <p1 x="800" y="1660"/>
-      <p2 x="800" y="1700"/>
+      <p1 x="1120" y="1080"/>
+      <p2 x="1120" y="1440"/>
     </wire>
     <wire>
       <p1 x="100" y="1260"/>
